@@ -1,0 +1,10 @@
+[core]
+	bare = false
+	repositoryformatversion = 0
+	filemode = true
+	ignorecase = true
+	precomposeunicode = true
+	logallrefupdates = true
+[remote "origin2"]
+	url = https://github.com/HOTYVN/hotyapp.git
+	fetch = +refs/heads/*:refs/remotes/origin2/*
